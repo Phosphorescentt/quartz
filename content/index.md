@@ -1,5 +1,5 @@
-[[About]]
+[[about]]
 
-[[Ideas]]
+[[ideas]]
 
-[[Now]]
+[[now]]
