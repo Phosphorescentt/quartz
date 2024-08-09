@@ -1,1 +1,1 @@
-I found this 
+I found this community called [Socratica](https://www.socratica.info/). Might run or go to one of these :)
