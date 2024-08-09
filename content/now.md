@@ -1,5 +1,5 @@
 ---
-title: now
+title: Now
 ---
 I'm currently FTE employed at a financial services company in central London writing *mostly* serverless Python.
 
