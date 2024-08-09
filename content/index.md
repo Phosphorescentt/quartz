@@ -1,8 +1,8 @@
 ---
 title: Home
 ---
-[[Aboutt]]
+[[About]]
 
-[[Ideass]]
+[[Ideas]]
 
-[[Noww]]
+[[Now]]
