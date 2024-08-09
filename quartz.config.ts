@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: null,
     },
     locale: "en-US",
-    baseUrl: "phosphorescent.dev/",
+    baseUrl: "phosphorescent.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
